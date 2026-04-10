@@ -8,7 +8,7 @@ Hi! I’m Nancy, a recent UC San Diego graduate who enjoys using data to uncover
 
 ## ⛄️ Connect with Me
 
-[Email](mailto:nancyshenn@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nancyyshen/)
+💌 [Email](mailto:nancyshenn@gmail.com) · 👤 [LinkedIn](https://www.linkedin.com/in/nancyyshen/)
 
 ---
 
