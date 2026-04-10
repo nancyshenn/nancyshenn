@@ -21,4 +21,3 @@ Analyzed biometric data (ECG, brain waves) across two user groups and designed a
 
 #### 🧠 [Brain-to-Cursor Mapping](https://github.com/NeuraByte-UCSD-ITS/cogs189)
 Developed and coded a supervised machine learning algorithm to predict eye movement from EEG brain-wave data, including preprocessing and feature extraction of neural signals.
-
