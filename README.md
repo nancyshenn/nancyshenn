@@ -1,17 +1,23 @@
-## 🐰 Nancy Shen 
+# 🐰 Nancy Shen 
 
-<!--
-**nancyshenn/nancyshenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+she/her · 🎓 Cognitive Science (Machine Learning) & Data Science Graduate @ UC San Diego · 📍 Vancouver, Canada
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Hi! I’m Nancy, a recent UC San Diego graduate who enjoys using data to uncover insights and build practical, real-world solutions. I specialize in data analysis, predictive modeling, and visual storytelling. I love exploring data, building projects, and turning complex information into easy-to-understand visualizations. My goal is to keep learning and contribute to meaningful, data-driven work.
+
+---
+
+## ⛄️ Connect with Me
+
+[Email](mailto:nancyshenn@gmail.com) · [Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/nancyyshen/)
+
+---
+
+## ⚙️ Skills & Tools
+
+- **Languages & Tools:** Python · SQL (PostgreSQL, SQLite) · JavaScript (D3.js) · Tableau · Jupyter · Git · Excel · HTML/CSS  
+- **Concepts:** Exploratory Data Analysis (EDA) · Clustering · Predictive Modeling · Data Visualization · Machine Learning  
+- **Languages:** English · Mandarin Chinese
+
+---
+
+## 📌 Featured Projects
