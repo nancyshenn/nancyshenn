@@ -1,4 +1,4 @@
-# 🐰 Nancy Shen 
+# 🪷 Nancy Shen 
 
 **she/her · 🎓 Cognitive Science (Machine Learning) & Data Science Graduate @ UC San Diego · 📍 Vancouver, Canada**
 
