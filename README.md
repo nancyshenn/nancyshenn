@@ -22,10 +22,10 @@ Hi! I’m Nancy, a recent UC San Diego graduate who enjoys using data to uncover
 
 ## 📌 Featured Projects
 
-### 🎮 [Gamify Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)
+#### 🎮 [Gamify Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)
 Analyzed biometric data (ECG, brain waves) across two user groups and designed an interactive D3.js web visualization to communicate how gamification can reduce cognitive load; ranked Top 10% in class for data visualization & clarity.
 
-### 🧠 [Brain-to-Cursor Mapping](https://github.com/NeuraByte-UCSD-ITS/cogs189)
+#### 🧠 [Brain-to-Cursor Mapping](https://github.com/NeuraByte-UCSD-ITS/cogs189)
 Developed and coded a supervised machine learning algorithm to predict eye movement from EEG brain-wave data, including preprocessing and feature extraction of neural signals.
 
 
