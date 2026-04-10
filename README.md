@@ -6,12 +6,6 @@ Hi! I’m Nancy, a recent UC San Diego graduate who enjoys using data to uncover
 
 ---
 
-## ⛄️ Connect with Me
-
-[Email](mailto:nancyshenn@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nancyyshen/)
-
----
-
 ## ⚙️ Skills & Tools
 
 - **Languages & Tools:** Python · SQL (PostgreSQL, SQLite) · JavaScript (D3.js) · Jupyter · Git · Excel · HTML/CSS  
