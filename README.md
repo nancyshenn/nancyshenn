@@ -8,16 +8,24 @@ Hi! I’m Nancy, a recent UC San Diego graduate who enjoys using data to uncover
 
 ## ⛄️ Connect with Me
 
-[Email](mailto:nancyshenn@gmail.com) · [Portfolio](#) · [LinkedIn](https://www.linkedin.com/in/nancyyshen/)
+[Email](mailto:nancyshenn@gmail.com) · [LinkedIn](https://www.linkedin.com/in/nancyyshen/)
 
 ---
 
 ## ⚙️ Skills & Tools
 
-- **Languages & Tools:** Python · SQL (PostgreSQL, SQLite) · JavaScript (D3.js) · Tableau · Jupyter · Git · Excel · HTML/CSS  
+- **Languages & Tools:** Python · SQL (PostgreSQL, SQLite) · JavaScript (D3.js) · Jupyter · Git · Excel · HTML/CSS  
 - **Concepts:** Exploratory Data Analysis (EDA) · Clustering · Predictive Modeling · Data Visualization · Machine Learning  
-- **Languages:** English · Mandarin Chinese
+- **Languages:** English · Mandarin
 
 ---
 
 ## 📌 Featured Projects
+
+### 🎮 [Gamify Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)
+Analyzed biometric data (ECG, brain waves) across two user groups and designed an interactive D3.js web visualization to communicate how gamification can reduce cognitive load; ranked Top 10% in class for data visualization & clarity.
+
+### 🧠 [Brain-to-Cursor Mapping](https://github.com/NeuraByte-UCSD-ITS/cogs189)
+Developed and coded a supervised machine learning algorithm to predict eye movement from EEG brain-wave data, including preprocessing and feature extraction of neural signals.
+
+
