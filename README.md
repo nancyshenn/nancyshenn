@@ -10,7 +10,7 @@ Hi! I’m Nancy, a recent UC San Diego graduate who enjoys using data to uncover
 
 - **Languages & Tools:** Python · SQL (PostgreSQL, SQLite) · JavaScript (D3.js) · Jupyter · Git · Excel · HTML/CSS  
 - **Concepts:** Exploratory Data Analysis (EDA) · Clustering · Predictive Modeling · Data Visualization · Machine Learning  
-- **Languages:** English · Mandarin Chinese· French  
+- **Languages:** English · Mandarin Chinese · French  
 
 ---
 
