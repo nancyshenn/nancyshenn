@@ -32,6 +32,13 @@ Hi! I’m Nancy, a recent UC San Diego graduate who enjoys using data to uncover
 ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
 
 ---
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nancyyshen)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nancyshenn@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-76b6d3?style=for-the-badge&logo=About.me&logoColor=white)](https://nancyshenn.github.io/ns-portfolio/)
+
+---
 
 ## 📌 Featured Projects
 
