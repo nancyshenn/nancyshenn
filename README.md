@@ -30,12 +30,43 @@ Hi! I’m Nancy, a recent UC San Diego graduate who enjoys using data to uncover
 ![ETL](https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge)
 ![Data%20Modeling](https://img.shields.io/badge/Data%20Modeling-007ACC?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+
 ---
 
 ## 📌 Featured Projects
 
-#### 🎮 [Gamify Unplugged](https://nglyry.github.io/Final-Proj-Dsc106/)
-Analyzed biometric data (ECG, brain waves) across two user groups and designed an interactive D3.js web visualization to communicate how gamification can reduce cognitive load; ranked Top 10% in class for data visualization & clarity.
+#### 👾 [Gamify Unplugged: Reducing Cognitive Load in Surveys](https://github.com/NGLYRY/Final-Proj-Dsc106)
+Built an interactive explorable visualization to study how gamification reduces cognitive load in survey-based tasks.
 
-#### 🧠 [Brain-to-Cursor Mapping](https://github.com/NeuraByte-UCSD-ITS/cogs189)
-Developed and coded a supervised machine learning algorithm to predict eye movement from EEG brain-wave data, including preprocessing and feature extraction of neural signals.
+---
+
+#### 🖱️ [Action-Based BCI for Cursor Control (EEG & SSVEP)](https://sites.google.com/ucsd.edu/cogs189/home)
+Developed and evaluated models for a real-time brain-computer interface, mapping predicted eye movements to cursor control using EEG signals.
+
+---
+
+#### 📊 [Interactive Data Visualization: Surgical Procedures Analysis](https://github.com/NGLYRY/dsc106-proj3)
+Designed dynamic, user-driven visualizations to explore patterns and insights in surgical and medical datasets.
+
+---
+
+#### 🧠 [EEG Signal Analysis: Control vs Alzheimer’s Disease](https://github.com/nancyshenn/COGS118C-FinalProject)
+Analyzed EEG data to identify differences in brain activity between healthy individuals and Alzheimer’s patients, applying signal processing and statistical analysis techniques.
+
+---
+
+#### 🍽️ [Recipe Interaction Predictor](https://github.com/nancyshenn/Recipes)
+Developed a binary classification model to predict user–recipe interactions using Food.com data, leveraging EDA, feature engineering, and similarity-based techniques.
+
+---
+
+#### 📍 [PokéStops & Restaurant Traffic: Statistical Analysis](https://github.com/nancyshenn/Pokestop-Yelp-Analysis)
+Conducted statistical analysis to evaluate the impact of PokéStop locations on restaurant foot traffic using Yelp check-in data.
+
+---
+
+#### 🎮 [League of Legends Match Outcome Predictor](https://github.com/skvillamin/league-predictions)
+Built a machine learning model to predict match outcomes using gameplay data, applying feature engineering and statistical analysis to identify key performance drivers.
+
+
+
