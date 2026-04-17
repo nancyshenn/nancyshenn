@@ -45,35 +45,10 @@ Hi! I’m Nancy, a recent UC San Diego graduate who enjoys using data to uncover
 #### 👾 [Gamify Unplugged: Reducing Cognitive Load in Surveys](https://github.com/NGLYRY/Final-Proj-Dsc106)
 Built an interactive explorable visualization to study how gamification reduces cognitive load in survey-based tasks.
 
----
-
 #### 🖱️ [Brain-to-Cursor Mapping](https://sites.google.com/ucsd.edu/cogs189/home)
 Developed and evaluated models for a real-time brain-computer interface, mapping predicted eye movements to cursor control using EEG signals.
-
----
 
 #### 📊 [Interactive Data Visualization: Surgical Procedures Analysis](https://github.com/NGLYRY/dsc106-proj3)
 Designed dynamic, user-driven visualizations to explore patterns and insights in surgical and medical datasets.
 
----
-
-#### 🧠 [EEG Signal Analysis: Control vs Alzheimer’s Disease](https://github.com/nancyshenn/COGS118C-FinalProject)
-Analyzed EEG data to identify differences in brain activity between healthy individuals and Alzheimer’s patients, applying signal processing and statistical analysis techniques.
-
----
-
-#### 🍽️ [Recipe Interaction Predictor](https://github.com/nancyshenn/Recipes)
-Developed a binary classification model to predict user–recipe interactions using Food.com data, leveraging EDA, feature engineering, and similarity-based techniques.
-
----
-
-#### 📍 [PokéStops & Restaurant Traffic: Statistical Analysis](https://github.com/nancyshenn/Pokestop-Yelp-Analysis)
-Conducted statistical analysis to evaluate the impact of PokéStop locations on restaurant foot traffic using Yelp check-in data.
-
----
-
-#### 🎮 [The Battle for Carry: An Analysis of ADC vs Mid Players and Post-Game Role Predictive Model in League of Legends](https://github.com/skvillamin/league-predictions)
-Built a machine learning model to predict match outcomes using gameplay data, applying feature engineering and statistical analysis to identify key performance drivers.
-
-
-
+[![🌸 See more of my projects here 🌸](https://img.shields.io/badge/🌸%20See%20more%20of%20my%20projects%20here%20🌸-FFC0CB?style=for-the-badge&labelColor=FFC0CB)](https://nancyshenn.github.io/ns-portfolio/works.html)
