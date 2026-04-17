@@ -40,7 +40,7 @@ Built an interactive explorable visualization to study how gamification reduces 
 
 ---
 
-#### 🖱️ [Action-Based BCI for Cursor Control (EEG & SSVEP)](https://sites.google.com/ucsd.edu/cogs189/home)
+#### 🖱️ [Brain-to-Cursor Mapping](https://sites.google.com/ucsd.edu/cogs189/home)
 Developed and evaluated models for a real-time brain-computer interface, mapping predicted eye movements to cursor control using EEG signals.
 
 ---
@@ -65,7 +65,7 @@ Conducted statistical analysis to evaluate the impact of PokéStop locations on 
 
 ---
 
-#### 🎮 [League of Legends Match Outcome Predictor](https://github.com/skvillamin/league-predictions)
+#### 🎮 [The Battle for Carry: An Analysis of ADC vs Mid Players and Post-Game Role Predictive Model in League of Legends](https://github.com/skvillamin/league-predictions)
 Built a machine learning model to predict match outcomes using gameplay data, applying feature engineering and statistical analysis to identify key performance drivers.
 
 
